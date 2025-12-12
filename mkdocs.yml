@@ -275,6 +275,8 @@ nav:
   - 📚 API Reference: reference/
   - 🧑‍🍳 Cookbook: cookbook/
   - 🔭 OpenTelemetry: otel/
+  - 📖 Documentation:
+      - 🎯 Supported Strategies: SUPPORTED_STRATEGIES.md
   - 🤝 Contributing:
       - contributing/index.md
       - 🧭 Design: contributing/design.md
