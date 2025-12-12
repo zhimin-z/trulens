@@ -1,6 +1,6 @@
 # TruLens Supported Strategies in the Unified Evaluation Workflow
 
-This document maps TruLens capabilities to the [Unified Evaluation Workflow](https://github.com/truera/trulens), identifying which strategies are natively supported in a full TruLens installation.
+This document maps TruLens capabilities to the Unified Evaluation Workflow, identifying which strategies are natively supported in a full TruLens installation.
 
 A strategy is marked as **SUPPORTED** only if TruLens provides it out-of-the-box after full installation—meaning it can be executed directly without implementing custom modules or integrating external libraries beyond what's included in the TruLens ecosystem.
 
